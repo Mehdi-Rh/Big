@@ -1,10 +1,9 @@
 import './App.css';
+import EditableTable from './components/EditableTable';
 
 function App() {
   return (
-    <div>
-      CRA
-    </div>
+    <EditableTable />
   );
 }
 
